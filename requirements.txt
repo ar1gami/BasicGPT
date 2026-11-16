@@ -1,0 +1,11 @@
+torch
+numpy
+matplotlib
+regex
+tiktoken
+sentencepiece
+protobuf
+tokenizers
+datasets
+pytest
+jupyter
